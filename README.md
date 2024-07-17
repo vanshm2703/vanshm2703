@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vansh Mehta
-- 👀 I’m interested in experimenting and working with new technologies,building new products
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in experimenting and working with new technologies.
+- 🌱 I’m currently building mern stack projects
 - 📫 How to reach me : email- vanshm2703@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
