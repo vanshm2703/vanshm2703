@@ -60,6 +60,8 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-61eb202c-903c-4b5f-9b6d-3f8f7b0551c0.png" alt="Auth0" title="Auth0"/></td>
         <td><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-61eb202c-903c-4b5f-9b6d-3f8f7b0551c0.png" alt="Oracle" title="Oracle"/></td> 
            <td><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-61eb202c-903c-4b5f-9b6d-3f8f7b0551c0.png" alt="Windows" title="Windows"/></td> 
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></td>
 		</tr>
 	</table>
 </div>
