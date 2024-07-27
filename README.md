@@ -13,7 +13,7 @@
 			<li> ✉️ Dm me for the same.
 			<li> 🛌 My major Programming languages: Java, JavaScript, TypeScript, Python
 			<li> 📫Email me at: <a href="mailto:vanshm2703@gmail.com">vanshm2703@gmail.com</a></li>
-                        <li> 📄 Know about my experiences <a href="">Resume</a></li>
+                        <li> 📄 Know about my experiences <a href="https://drive.google.com/file/d/1qoV4MyUtDjE71i9YGEF8JGsHBTNAiDQs/view?usp=drive_link">Resume</a></li>
  </li>
 		</td>
 	</tr>
