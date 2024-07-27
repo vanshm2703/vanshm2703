@@ -20,7 +20,7 @@
 </table>
 
 ## 🎖️ Achievements:
-- 🥇 Best Intern of CodSoft- Nov'23
+- 🥇 Best Java Development Intern of CodSoft- Nov'23
 - 🥇 Linkedin Top Software Development Voice
 
 
