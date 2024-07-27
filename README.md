@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=vanshm2703&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vansh" align="right" />
 <h1 align="center">Hello👋, I'm Vansh Mehta</h1>
-<h3 align="center">A passionate Developer, Keen to learn new Tech Stacks</h3>
+<h3 align="center">A passionate developer, keen to learn new tech stacks</h3>
 
 <table>
 	<tr>
@@ -20,7 +20,7 @@
 </table>
 
 ## 🎖️ Achievements:
-- 🥇 Best Java Development Intern of CodSoft- Nov'23
+- 🥇 Best Java Development Intern at CodSoft- Nov'23
 - 🥇 Linkedin Top Software Development Voice
 
 
