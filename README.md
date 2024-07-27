@@ -1,4 +1,6 @@
-#  About Me:<img src="https://komarev.com/ghpvc/?username=vanshm2703&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notsujal" align="right" />
+<h1 align="center">Hello👋, I'm Vansh Mehta</h1>
+<h3 align="center">A passionate Developer, Keen to learn new Tech Stacks</h3>
+
 <table>
 	<tr>
 		<td>
