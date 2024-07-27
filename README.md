@@ -70,7 +70,7 @@
 ## Connect with me:
 
 <div align="center">
-<a href="https://x.com/vanshm2703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanshm2703" height="30" width="40" /></a>
+<a href="https://x.com/vanshm2703" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/vector-new-twitter-x-white-logo-black-background_744381-866.jpg" alt="vanshm2703" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vanshmehta2703/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanshmehta2703/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vanshm_27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vanshm_27/" height="30" width="40" /></a>
 </div>
