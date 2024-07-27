@@ -9,6 +9,8 @@
 			<li> 🤝 I am always up for collabs and fun projects.
 			<li> ✉️ Dm me for the same.
 			<li> 🛌 My major Programming languages: Java, JavaScript, TypeScript, Python
+			<li> 📫Email me at: <a href="mailto:vanshm2703@gmail.com">vanshm2703@gmail.com</a></li>
+                        <li> 📄 Know about my experiences Resume </li>
 		</td>
 	</tr>
 </table>
@@ -90,4 +92,10 @@
 		<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshm2703&layout=compact&theme=radical" />
 	</a>
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vanshm2703&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
