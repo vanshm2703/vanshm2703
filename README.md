@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=vanshm2703&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notsujal" align="right" />
+<img src="https://komarev.com/ghpvc/?username=vanshm2703&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vansh" align="right" />
 <h1 align="center">Hello👋, I'm Vansh Mehta</h1>
 <h3 align="center">A passionate Developer, Keen to learn new Tech Stacks</h3>
 
@@ -13,7 +13,7 @@
 			<li> ✉️ Dm me for the same.
 			<li> 🛌 My major Programming languages: Java, JavaScript, TypeScript, Python
 			<li> 📫Email me at: <a href="mailto:vanshm2703@gmail.com">vanshm2703@gmail.com</a></li>
-                        <li> 📄 Know about my experiences <a href="https://drive.google.com/file/d/1qoV4MyUtDjE71i9YGEF8JGsHBTNAiDQs/view?usp=drive_link">Resume</a></li>
+                        <li> 📄 Discover more about my skills and experience by viewing my <a href="https://drive.google.com/file/d/1qoV4MyUtDjE71i9YGEF8JGsHBTNAiDQs/view?usp=drive_link">Resume</a></li>
  </li>
 		</td>
 	</tr>
