@@ -2,7 +2,7 @@
 <table>
 	<tr>
 		<td>
-			<img src="https://github.com/vanshm2703/assets/85174767/b822a14b-346b-493c-a16d-cf8ec9098fd2" width="400px" />
+			  <!-- Image removed -->
 		</td>
 		<td>
 			<li> 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Third Year)
