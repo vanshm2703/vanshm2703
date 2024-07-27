@@ -15,6 +15,7 @@
 
 ## 🎖️ Achievements:
 - 🥇 Best Intern of CodSoft- Nov'23
+- 🥇 Linkedin Top Software Development Voice
 
 
 # 💻 Tech Stack:
