@@ -51,7 +51,7 @@
 			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/aa9bb4cc-d2e0-4655-b0db-518b2f09e500" alt="ShadCN" title="ShadCN"/></td>
 			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/6a1ff33f-6d0e-4d34-ae38-132deab29fda" alt="Lucide" title="Lucide"/></td>
 			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a94bfa83-fd50-413b-97d9-3a652d68e978" alt="Uiverse" title="Uiverse"/></td>
-			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7d55c56b-6764-4810-84a5-6c0d7e366f8e" alt="Canva" title="Canva"/></td>
+			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></td>
 			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/f3e946fe-9f03-47c3-996b-23cf9eb5e12c" alt="FontAwesome" title="FontAwesome"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></td>
@@ -59,7 +59,7 @@
 		<tr>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-61eb202c-903c-4b5f-9b6d-3f8f7b0551c0.png" alt="Auth0" title="Auth0"/></td>
         <td><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-61eb202c-903c-4b5f-9b6d-3f8f7b0551c0.png" alt="Oracle" title="Oracle"/></td> 
-           <td><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-61eb202c-903c-4b5f-9b6d-3f8f7b0551c0.png" alt="Windows" title="Windows"/></td> 
+         <td><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></td>
 		</tr>
@@ -69,21 +69,14 @@
 ## Connect with me:
 
 <div align="center">
-	<a href="https://github.com/vanshm2703">
-		<img width="50" src="https://user-images.githubusercontent.com/10498744/210012396-6f24ef5d-f4d3-4a5f-9440-0e18c1577a8d.png" alt="GitHub" title="GitHub"/>
-	</a>
-	<a href="https://linkedin.com/in/vanshm2703">
-		<img width="50" src="https://user-images.githubusercontent.com/10498744/210012479-9d20dfee-5d31-419e-8223-280948f56a4a.png" alt="LinkedIn" title="LinkedIn"/>
-	</a>
-	<a href="https://twitter.com/vanshm2703">
-		<img width="50" src="https://user-images.githubusercontent.com/10498744/210012304-4e0a6cb0-8a38-4c15-a52f-21a7a4cc3d10.png" alt="Twitter" title="Twitter"/>
-	</a>
-	<a href="https://instagram.com/vanshm2703">
-		<img width="50" src="https://user-images.githubusercontent.com/10498744/210012453-5ca5cd6d-5dca-4a9d-bf26-ccf475e1e4ed.png" alt="Instagram" title="Instagram"/>
-	</a>
-	<a href="mailto:vanshm2703@gmail.com">
-		<img width="50" src="https://user-images.githubusercontent.com/10498744/210012481-a51133f5-d129-49f3-8aa0-4048a4f6e515.png" alt="Gmail" title="Gmail"/>
-	</a>
+<a href="https://x.com/vanshm2703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanshm2703" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vanshmehta2703/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanshmehta2703/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vanshm_27?igsh=MTJqeXFrcmM2MGc4dA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vanshm_27?igsh=MTJqeXFrcmM2MGc4dA==" height="30" width="40" /></a>
+<a href="mailto:vanshm2703@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="vanshm2703@gmail.com" height="30" width="40" />
+</a>
+
+
 </div>
 
 # 📊 GitHub Stats:
