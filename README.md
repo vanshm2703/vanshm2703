@@ -90,3 +90,9 @@
 		<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshm2703&theme=radical" />
 	</a>
 </div>
+<div align="center">
+	<a href="https://github.com/vanshm2703">
+		<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshm2703&layout=compact&theme=radical" />
+	</a>
+</div>
+
