@@ -47,19 +47,19 @@
 		</tr>
 		<tr>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Sublime Text" title="Sublime Text"/></td>
-			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/23691e4e-0720-4df4-87e7-0d3f1e40e8f5" alt="Material UI" title="Material UI"/></td>
-			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5adf4ce0-8a55-4eb3-b3c8-8b9bcf37d524" alt="Radix UI" title="Radix UI"/></td>
-			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/aa9bb4cc-d2e0-4655-b0db-518b2f09e500" alt="ShadCN" title="ShadCN"/></td>
-			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/6a1ff33f-6d0e-4d34-ae38-132deab29fda" alt="Lucide" title="Lucide"/></td>
-			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a94bfa83-fd50-413b-97d9-3a652d68e978" alt="Uiverse" title="Uiverse"/></td>
+			<td><img width="50" src="https://mui.com/static/logo.png" alt="Material UI" title="Material UI"/></td>
+			<td><img width="50" src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4" alt="Radix UI" title="Radix UI"/></td>
+			<td><img width="50" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN" title="ShadCN"/></td>
+			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScndwTwBMTv-NHGuycG8rMvddVTWnLmlQNwQ&s" alt="Lucide" title="Lucide"/></td>
+			<td><img width="50" src="https://avatars.githubusercontent.com/u/103369066?v=4" alt="Uiverse" title="Uiverse"/></td>
 			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></td>
-			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/f3e946fe-9f03-47c3-996b-23cf9eb5e12c" alt="FontAwesome" title="FontAwesome"/></td>
+			<td><img width="50" src="https://www.drupal.org/files/project-images/font_awesome_logo.png" alt="FontAwesome" title="FontAwesome"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></td>
 		</tr>
 		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-61eb202c-903c-4b5f-9b6d-3f8f7b0551c0.png" alt="Auth0" title="Auth0"/></td>
-        <td><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-61eb202c-903c-4b5f-9b6d-3f8f7b0551c0.png" alt="Oracle" title="Oracle"/></td> 
+			<td><img width="50" src="https://seeklogo.com/images/A/auth0-logo-CB96B17A7D-seeklogo.com.png" alt="Auth0" title="Auth0"/></td>
+        <td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd9RyC9Pc_QnczRFMfYEr2jxFQ9s9NjMqSOA&s" alt="Oracle" title="Oracle"/></td> 
          <td><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></td>
