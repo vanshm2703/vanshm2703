@@ -82,9 +82,6 @@
     <a href="https://www.linkedin.com/in/vanshmehta2703/" target="blank" style="text-decoration: none; border: none; outline: none;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanshmehta2703/" height="30" width="40" />
     </a>
-    <a href="https://www.instagram.com/vanshm_27/" target="blank" style="text-decoration: none; border: none; outline: none;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vanshm_27/" height="30" width="40" />
-    </a>
     <a href="mailto:vanshm2703@gmail.com" style="text-decoration: none; border: none; outline: none;">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" alt="vanshm2703@gmail.com" height="30" width="40" />
     </a>
