@@ -78,7 +78,8 @@
 		<tr>
 			<td><img width="50" src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" alt="Numpy" title="Numpy"/></td>
 			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" alt="Pandas" title="Pandas"/></td>
-			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s" alt="Pandas" title="Pandas"/></td>
+			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s" alt="Anaconda Navigator" title="Anaconda Navigator"/></td>
+			<td><img width="50" src="https://applet3d.com/wp-content/uploads/2023/01/auto-cad-logo.png" alt="AutoCad" title="AutoCad"/></td>
 		</tr>
 	</table>
 </div>
