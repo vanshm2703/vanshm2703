@@ -13,8 +13,7 @@
 			<li> ✉️ Dm me for the same.
 			<li> 🛌 My major Programming languages: Java, JavaScript, TypeScript, Python
 			<li> 📫Email me at: <a href="mailto:vanshm2703@gmail.com">vanshm2703@gmail.com</a></li>
-                        <li> 📄 Discover more about my skills and experience by viewing my <a href="https://drive.google.com/file/d/11_7uvHoqod_fg3h22qA1S3yAg8fasiS5/view?usp=drive_link">Resume</a></li>
- </li>
+            <li> 📄 Discover more about my skills and experience by viewing my <a href="https://drive.google.com/file/d/11_7uvHoqod_fg3h22qA1S3yAg8fasiS5/view?usp=drive_link">Resume</a></li>
 		</td>
 	</tr>
 </table>
@@ -23,6 +22,19 @@
 - 🥇 Best Java Development Intern at CodSoft- Nov'23
 - 🥇 Linkedin Top Software Development Voice
 
+## Connect with me:
+
+<div align="center" style="line-height: 0;">
+    <a href="https://x.com/vanshm2703" target="blank" style="text-decoration: none; border: none; outline: none;">
+        <img src="https://img.freepik.com/premium-vector/vector-new-twitter-x-white-logo-black-background_744381-866.jpg" alt="vanshm2703" height="30" width="40" />
+    </a>
+    <a href="https://www.linkedin.com/in/vanshm2703/" target="blank" style="text-decoration: none; border: none; outline: none;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanshm2703/" height="30" width="40" />
+    </a>
+    <a href="mailto:vanshm2703@gmail.com" style="text-decoration: none; border: none; outline: none;">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" alt="vanshm2703@gmail.com" height="30" width="40" />
+    </a>
+</div>
 
 # 💻 Tech Stack:
 <div align="center">
@@ -65,40 +77,25 @@
 		</tr>
 		<tr>
 			<td><img width="50" src="https://seeklogo.com/images/A/auth0-logo-CB96B17A7D-seeklogo.com.png" alt="Auth0" title="Auth0"/></td>
-        <td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd9RyC9Pc_QnczRFMfYEr2jxFQ9s9NjMqSOA&s" alt="Oracle" title="Oracle"/></td> 
-         <td><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></td>
+            <td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd9RyC9Pc_QnczRFMfYEr2jxFQ9s9NjMqSOA&s" alt="Oracle" title="Oracle"/></td> 
+            <td><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="Http" title="Http"/></td>
+		<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></td>
-                        <td><img width="50" src="https://www.katk.dev/static/86f2f48b9b0dd900b4892f49f4bbab81/e4f06/logo.png" alt="Thunder Client" title="Thunder Client"/></td>
-			<td><img width="50" src="https://miro.medium.com/v2/resize:fit:1400/0*yTnXWjd6Tkdr17HN.png" alt="Zod" title="Zod"/></td>
-			<td><img width="50" src="https://www.bluej.org/bluej-icon-256-2x.png" alt="Blue J" title="Blue J"/></td>
-			<td><img width="50" src="https://e7.pngegg.com/pngimages/191/643/png-clipart-turbo-c-borland-turbo-c-computer-software-two-sessions-npc-and-cppcc-text-trademark.png" alt="Turbo C" title="Turbo C"/></td>
+                        <td><img width="50" src="https://www.katk.dev/static/86f2f48b9b0dd900b4892f49f4bbab81/e4f06/logo.png" alt="Thunder Client" title="Thunder Client"/></td>	
+			 <td><img width="50" src="https://www.bluej.org/bluej-icon-256-2x.png" alt="Blue J" title="Blue J"/></td>
+			 <td><img width="50" src="https://e7.pngegg.com/pngimages/191/643/png-clipart-turbo-c-borland-turbo-c-computer-software-two-sessions-npc-and-cppcc-text-trademark.png" alt="Turbo C" title="Turbo C"/></td>
+			<td><img width="50" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" alt="Zod" title="Zod"/></td>
 		</tr>
 		<tr>
 			<td><img width="50" src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" alt="Numpy" title="Numpy"/></td>
-			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" alt="Pandas" title="Pandas"/></td>
-			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s" alt="Anaconda Navigator" title="Anaconda Navigator"/></td>
-			<td><img width="50" src="https://applet3d.com/wp-content/uploads/2023/01/auto-cad-logo.png" alt="AutoCad" title="AutoCad"/></td>
-			<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt=" Google Collab" title=" Google Collab"/></td>
+                        <td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" alt="Pandas" title="Pandas"/></td>	
+			 <td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s" alt="Anaconda Navigator" title="Anaconda Navigator"/></td>
+			 <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Collab" title="Google Collab"/></td>
 			<td><img width="50" src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" alt="Netbeans" title="Netbeans"/></td>
-			
+			<td><img width="50" src="https://applet3d.com/wp-content/uploads/2023/01/auto-cad-logo.png" alt="AutoCad" title="AutoCad"/></td>
 		</tr>
 	</table>
-</div>
-
-## Connect with me:
-
-<div align="center" style="line-height: 0;">
-    <a href="https://x.com/vanshm2703" target="blank" style="text-decoration: none; border: none; outline: none;">
-        <img src="https://img.freepik.com/premium-vector/vector-new-twitter-x-white-logo-black-background_744381-866.jpg" alt="vanshm2703" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/vanshm2703/" target="blank" style="text-decoration: none; border: none; outline: none;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanshm2703/" height="30" width="40" />
-    </a>
-    <a href="mailto:vanshm2703@gmail.com" style="text-decoration: none; border: none; outline: none;">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" alt="vanshm2703@gmail.com" height="30" width="40" />
-    </a>
 </div>
 
 
