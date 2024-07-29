@@ -80,6 +80,9 @@
 			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" alt="Pandas" title="Pandas"/></td>
 			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s" alt="Anaconda Navigator" title="Anaconda Navigator"/></td>
 			<td><img width="50" src="https://applet3d.com/wp-content/uploads/2023/01/auto-cad-logo.png" alt="AutoCad" title="AutoCad"/></td>
+			<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt=" Google Collab" title=" Google Collab"/></td>
+			<td><img width="50" src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" alt="Netbeans" title="Netbeans"/></td>
+			<td></td>
 		</tr>
 	</table>
 </div>
