@@ -72,6 +72,8 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></td>
                         <td><img width="50" src="https://www.katk.dev/static/86f2f48b9b0dd900b4892f49f4bbab81/e4f06/logo.png" alt="Thunder Client" title="Thunder Client"/></td>
 			<td><img width="50" src="https://miro.medium.com/v2/resize:fit:1400/0*yTnXWjd6Tkdr17HN.png" alt="Zod" title="Zod"/></td>
+			<td><img width="50" src="https://www.bluej.org/bluej-icon-256-2x.png" alt="Blue J" title="Blue J"/></td>
+			<td><img width="50" src="https://e7.pngegg.com/pngimages/191/643/png-clipart-turbo-c-borland-turbo-c-computer-software-two-sessions-npc-and-cppcc-text-trademark.png" alt="Turbo C" title="Turbo C"/></td>
 		</tr>
 	</table>
 </div>
