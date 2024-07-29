@@ -75,6 +75,11 @@
 			<td><img width="50" src="https://www.bluej.org/bluej-icon-256-2x.png" alt="Blue J" title="Blue J"/></td>
 			<td><img width="50" src="https://e7.pngegg.com/pngimages/191/643/png-clipart-turbo-c-borland-turbo-c-computer-software-two-sessions-npc-and-cppcc-text-trademark.png" alt="Turbo C" title="Turbo C"/></td>
 		</tr>
+		<tr>
+			<td><img width="50" src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" alt="Numpy" title="Numpy"/></td>
+			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" alt="Pandas" title="Pandas"/></td>
+			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqvREgueCenWgK3AOYf2Ggyz-jOISn5uJfg&s" alt="Pandas" title="Pandas"/></td>
+		</tr>
 	</table>
 </div>
 
