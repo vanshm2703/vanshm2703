@@ -35,17 +35,18 @@
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" alt="vanshm2703@gmail.com" height="30" width="40" />
     </a>
 </div>
+
 ## Other Profiles:
 
 <div align="center" style="line-height: 0;">
-    <a href="https://x.com/vanshm2703" target="blank" style="text-decoration: none; border: none; outline: none;">
-        <img src="https://img.freepik.com/premium-vector/vector-new-twitter-x-white-logo-black-background_744381-866.jpg" alt="vanshm2703" height="30" width="40" />
+    <a href="https://developers.google.com/profile/u/vanshbhaveshmehta_djsanghvi" target="blank" style="text-decoration: none; border: none; outline: none;">
+        <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt="https://developers.google.com/profile/u/vanshbhaveshmehta_djsanghvi" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/vanshm2703/" target="blank" style="text-decoration: none; border: none; outline: none;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanshm2703/" height="30" width="40" />
+    <a href="https://www.cloudskillsboost.google/public_profiles/bfc6b13a-d1ae-4700-b7c5-a650ae41f972" target="blank" style="text-decoration: none; border: none; outline: none;">
+        <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-1024x823-wiwlyizc.png" alt="https://www.cloudskillsboost.google/public_profiles/bfc6b13a-d1ae-4700-b7c5-a650ae41f972" height="30" width="40" />
     </a>
-    <a href="mailto:vanshm2703@gmail.com" style="text-decoration: none; border: none; outline: none;">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" alt="vanshm2703@gmail.com" height="30" width="40" />
+    <a href="https://www.naukri.com/code360/profile/ea5da9a8-da61-4125-b995-0d7d4173ebd3" style="text-decoration: none; border: none; outline: none;">
+        <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="https://www.naukri.com/code360/profile/ea5da9a8-da61-4125-b995-0d7d4173ebd3" height="30" width="40" />
     </a>
 </div>
 
