@@ -111,6 +111,7 @@
 			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2bNXCEf78EwNL-8HFe5KpBFOFTJrgqwSOOOH1rN0dSrd0kfETdFDZkVQNt02uhR2LlI&usqp=CAU" alt="Resend" title="Resend"/></td>
 			<td><img width="50" src="https://react.email/static/apple-touch-icon.png" alt="React Email" title="React Email"/></td>
 			<td><img width="50" src="https://avatars.githubusercontent.com/u/67470890?s=200&v=4" alt="Next Auth.js" title="Next Auth.js"/></td>
+			<td><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" title="Matplotlib" width="50" height="50"/> </a> </td>
 		</tr>
 	</table>
 </div>
