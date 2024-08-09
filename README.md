@@ -21,7 +21,7 @@
 ## 🎖️ Achievements:
 - 🥇 Best Java Development Intern at CodSoft- Nov'23
 - 🥇 Linkedin Top Software Development Voice
-- 🥇 Mumbai Technology Hackathon Winner
+- 🥇 Mumbai Tech Hackathon Winner
 
 ## Connect with me:
 
