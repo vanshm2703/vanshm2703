@@ -41,10 +41,10 @@
 
 <div align="center" style="line-height: 0;">
     <a href="https://developers.google.com/profile/u/vanshbhaveshmehta_djsanghvi" target="blank" style="text-decoration: none; border: none; outline: none;">
-        <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt="https://developers.google.com/profile/u/vanshbhaveshmehta_djsanghvi" c />
+        <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt="https://developers.google.com/profile/u/vanshbhaveshmehta_djsanghvi" height="30" width="40"  />
     </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/bfc6b13a-d1ae-4700-b7c5-a650ae41f972" target="blank" style="text-decoration: none; border: none; outline: none;">
-        <img src="https://external-preview.redd.it/google-will-discontinue-cloud-source-repositories-v0-hHuPbOBuX42Zu5_MT0rir3JO7cgRTfjn0ct4UWuqTu4.jpg?auto=webp&s=0b69211da1be29965a522aa43de9f64584e94ac8" alt="https://www.cloudskillsboost.google/public_profiles/bfc6b13a-d1ae-4700-b7c5-a650ae41f972" https://www.cloudskillsboost.google/public_profiles/bfc6b13a-d1ae-4700-b7c5-a650ae41f972 />
+        <img src="https://external-preview.redd.it/google-will-discontinue-cloud-source-repositories-v0-hHuPbOBuX42Zu5_MT0rir3JO7cgRTfjn0ct4UWuqTu4.jpg?auto=webp&s=0b69211da1be29965a522aa43de9f64584e94ac8" alt="https://www.cloudskillsboost.google/public_profiles/bfc6b13a-d1ae-4700-b7c5-a650ae41f972" height="30" width="40"  />
     </a>
     <a href="https://www.naukri.com/code360/profile/ea5da9a8-da61-4125-b995-0d7d4173ebd3" style="text-decoration: none; border: none; outline: none;">
         <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="https://www.naukri.com/code360/profile/ea5da9a8-da61-4125-b995-0d7d4173ebd3" height="30" width="40" />
