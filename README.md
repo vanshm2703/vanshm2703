@@ -101,7 +101,7 @@
                         <td><img width="50" src="https://www.katk.dev/static/86f2f48b9b0dd900b4892f49f4bbab81/e4f06/logo.png" alt="Thunder Client" title="Thunder Client"/></td>	
 			 <td><img width="50" src="https://www.bluej.org/bluej-icon-256-2x.png" alt="Blue J" title="Blue J"/></td>
 			 <td><img width="50" src="https://e7.pngegg.com/pngimages/191/643/png-clipart-turbo-c-borland-turbo-c-computer-software-two-sessions-npc-and-cppcc-text-trademark.png" alt="Turbo C" title="Turbo C"/></td>
-			<td><img width="50" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" alt="Zod" title="Zod"/></td>
+			<td><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" title="Matplotlib" width="50" height="50"/> </a> </td>
 		</tr>
 		<tr>
 			<td><img width="50" src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" alt="Numpy" title="Numpy"/></td>
@@ -110,10 +110,8 @@
 			 <td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Collab" title="Google Collab"/></td>
 			<td><img width="50" src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" alt="Netbeans" title="Netbeans"/></td>
 			<td><img width="50" src="https://applet3d.com/wp-content/uploads/2023/01/auto-cad-logo.png" alt="AutoCad" title="AutoCad"/></td>
-			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2bNXCEf78EwNL-8HFe5KpBFOFTJrgqwSOOOH1rN0dSrd0kfETdFDZkVQNt02uhR2LlI&usqp=CAU" alt="Resend" title="Resend"/></td>
-			<td><img width="50" src="https://react.email/static/apple-touch-icon.png" alt="React Email" title="React Email"/></td>
-			<td><img width="50" src="https://avatars.githubusercontent.com/u/67470890?s=200&v=4" alt="Next Auth.js" title="Next Auth.js"/></td>
-			<td><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" title="Matplotlib" width="50" height="50"/> </a> </td>
+
+			
 		</tr>
 	</table>
 </div>
