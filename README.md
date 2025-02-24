@@ -14,7 +14,7 @@
 			<li> 🛌 My major Programming languages: Java, JavaScript, TypeScript, Python
 			<li> 💻 Checkout more on my <a href="https://vanshmehta.vercel.app/">Portfolio</a></li>	
 			<li> 📫Email me at: <a href="mailto:vanshm2703@gmail.com">vanshm2703@gmail.com</a></li>
-            <li> 📄 Discover more about my skills and experience by viewing my <a href="https://drive.google.com/file/d/1CJWZqtrl2gGHZt36oISUdBEqF9MJCj7t/view?usp=drive_link">Resume</a></li>
+            <li> 📄 Discover more about my skills and experience by viewing my <a href="https://drive.google.com/file/d/1XbUXtVl2l_v_VU6NfVqQlRkSyY9QeLvL/view?usp=drive_link">Resume</a></li>
 		</td>
 	</tr>
 </table>
