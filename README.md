@@ -20,9 +20,13 @@
 </table>
 
 ## 🎖️ Achievements:
-- 🥇 Mumbai Tech Hackathon Winner
-- 🥇 Linkedin Top Software Development Voice
+- 🥇 Dev with AI Hackathon Winner
+- 🥇 Techsparks 2025 Winner
 - 🥇 Best Java Development Intern at CodSoft- Nov'23
+- 🥇 Mumbai Tech Hackathon Winner
+- 🥇 Ex-Linkedin Top Software Development Voice
+- 🥇 Best Java Development Intern at CodSoft- Nov'23
+
 
 ## Connect with me:
 
