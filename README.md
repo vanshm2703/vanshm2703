@@ -25,7 +25,6 @@
 - 🥇 Best Java Development Intern at CodSoft- Nov'23
 - 🥇 Mumbai Tech Hackathon Winner
 - 🥇 Ex-Linkedin Top Software Development Voice
-- 🥇 Best Java Development Intern at CodSoft- Nov'23
 
 
 ## Connect with me:
