@@ -8,7 +8,7 @@
 			  <!-- Image removed -->
 		</td>
 		<td>
-			<li> 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Third Year)
+			<li> 👨‍💻 I am an Information Technology Student at Dwarkadas J. Sanghvi College of Engineering. (Final Year)
 			<li> 🤝 I am always up for collabs and fun projects.
 			<li> ✉️ Dm me for the same.
 			<li> 🛌 My major Programming languages: Java, JavaScript, TypeScript, Python
