@@ -22,7 +22,7 @@
 ## 🎖️ Achievements:
 - 🥇 Dev with AI Hackathon Winner
 - 🥇 Techsparks 2025 Winner
-- 🥇 Best Java Development Intern at CodSoft- Nov'23
+- 🥇 Gujurati Sign Language Alphabet Dataset Copyright Holder
 - 🥇 Mumbai Tech Hackathon Winner
 - 🥇 Ex-Linkedin Top Software Development Voice
 
