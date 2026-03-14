@@ -24,6 +24,7 @@
 - 🥇 Techsparks 2025 Winner
 - 🥇 Gujurati Sign Language Alphabet Dataset Copyright Holder
 - 🥇 Mumbai Tech Hackathon Winner
+- 🥇 Published a Research Paper in Springer
 - 🥇 Ex-Linkedin Top Software Development Voice
 
 
