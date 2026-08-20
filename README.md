@@ -14,8 +14,8 @@
 			<li> 🛌 My major Programming languages: Java, JavaScript, TypeScript, Python
 			<li> 📫Email me at: <a href="mailto:vanshm2703@gmail.com">vanshm2703@gmail.com</a></li>
            
-		</td>
-	</tr>
+		
+	
 </table>
 
 ## 🎖️ Achievements:
